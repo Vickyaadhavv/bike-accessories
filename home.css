@@ -71,7 +71,7 @@ nav ul li i{
 } 
 .rac-img {
     position: relative;
-}.racing{
+}.racing a{
     position: absolute;
     top:8%;
     right:42%;
@@ -86,7 +86,7 @@ nav ul li i{
 }
 .off-img{
     position: relative;
-} .off-road{
+} .off-road a{
     position: absolute;
     top:8%;
     right:38%;
@@ -101,7 +101,7 @@ nav ul li i{
 }
 .tour-img{
     position: relative;
-} .touring{
+} .touring a{
     position: absolute;
     top:8%;
     right:35%;
@@ -116,7 +116,7 @@ nav ul li i{
 }
 .street-img {
     position: relative;
-}.street{
+}.street a{
     position: absolute;
     top:8%;
     right:35%;
